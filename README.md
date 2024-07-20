@@ -13,15 +13,13 @@
 
 <h2>📸 Screenshots</h2>
     <h3>Home Page</h3>
-    <img src="screenshots/home.png" alt="Home Page" class="screenshot">
+    <img src="./screenshots/ss1.jpg" alt="Home Page" class="screenshot">
     <h3>Projects Page</h3>
-    <img src="screenshots/projects.png" alt="Projects Page" class="screenshot">
+    <img src="./screenshots/ss3.jpg" alt="Projects Page" class="screenshot">
     <h3>Skills Page</h3>
-    <img src="screenshots/skills.png" alt="Skills Page" class="screenshot">
-    <h3>Experience Page</h3>
-    <img src="screenshots/experience.png" alt="Experience Page" class="screenshot">
+    <img src="./screenshots/ss2.jpg" alt="Skills Page" class="screenshot">
     <h3>Contact Page</h3>
-    <img src="screenshots/contact.png" alt="Contact Page" class="screenshot">
+    <img src="./screenshots/ss4.jpg" alt="Contact Page" class="screenshot">
 
 <h2>🚀 Getting Started</h2>
     <p>To run this project locally, follow these steps:</p>
