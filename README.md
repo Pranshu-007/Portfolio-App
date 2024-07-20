@@ -27,7 +27,7 @@
     <p>To run this project locally, follow these steps:</p>
     <ol>
         <li><strong>Clone the repository:</strong></li>
-        <pre><code>git clone https://github.com/your-username/portfolio-app.git</code></pre>
+        <pre><code>git clone https://github.com/Pranshu-007/portfolio-app.git</code></pre>
         <li><strong>Navigate to the project directory:</strong></li>
         <pre><code>cd portfolio-app</code></pre>
         <li><strong>Install dependencies:</strong></li>
